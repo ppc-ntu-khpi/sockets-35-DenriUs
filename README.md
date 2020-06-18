@@ -6,21 +6,21 @@
 
 # Результат
 
-**Введення користувачем свого username**
+### Введення користувачем свого username
 ![](/img/resultConnect.png)
 ![](/img/resultSecondUserConnect.png)
 
-**Підкючений користувач до чату**
+### Підкючений користувач до чату
 ![](/img/resultSend.png)
 
-**Чат з підтрикою кирилиці - кодування UTF-8**
+### Чат з підтрикою кирилиці - кодування UTF-8
 ![](/img/resultUTF-8.png)
 ![](/img/resultChat.png)
 
-**Сервер запускається без помилок**
+### Сервер запускається без помилок
 ![](/img/resultStartServer.png)
 
-**Вікно About**
+### Вікно About
 ![](/img/resultAbout.png)
 
 ---
