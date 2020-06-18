@@ -18,7 +18,7 @@
 ![](/img/resultChat.png)
 
 **Сервер запускається без помилок**
-![](/img/resultServer.png)
+![](/img/resultStartServer.png)
 
 **Вікно About**
 ![](/img/resultAbout.png)
